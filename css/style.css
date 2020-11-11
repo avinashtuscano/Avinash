@@ -1,0 +1,28 @@
+/* html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+body {
+  background-image: url(/img/pexels-александар-цветановић-1422286.jpg);
+  background-color: burlywood;
+}
+*/
+body {
+  background-image: url(../img/bg.jpg);
+  color: white;
+  text-shadow: 2px 2px 4px black;
+}
