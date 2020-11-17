@@ -25,19 +25,56 @@ body {
   background-image: url(../img/bg.jpg);
   color: white;
   text-shadow: 2px 2px 4px black;
+  font-family: sans-serif;
 }
 
 .nav {
   display: flex;
   justify-content: space-around;
+  background-color: #a9aeb0;
+  align-items: center;
+  height: 30px;
 }
 
 .header {
   display: flex;
   justify-content: center;
 }
-
+hr {
+  border: 1px solid whitesmoke;
+  padding: 0px;
+  margin: 0px;
+}
 .con {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+}
+
+.address {
+  width: 250px;
+}
+
+.lang {
+  margin: 20px;
+}
+
+.db {
+  margin: 20px;
+}
+.webtech {
+  margin: 20px;
+}
+.vcs {
+  margin: 20px;
+}
+.admin {
+  margin: 20px;
+}
+
+.os {
+  margin: 20px;
+}
+
+.statements {
+  margin: 20px;
 }
