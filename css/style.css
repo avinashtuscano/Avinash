@@ -26,3 +26,20 @@ body {
   color: white;
   text-shadow: 2px 2px 4px black;
 }
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+/*.intro {
+  margin: 20px;
+}
+
+.qual {
+  margin: 20px;
+}
+
+.exp {
+  margin: 20px;
+}*/
