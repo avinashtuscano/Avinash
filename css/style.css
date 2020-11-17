@@ -32,14 +32,12 @@ body {
   justify-content: space-around;
 }
 
-/*.intro {
-  margin: 20px;
+.header {
+  display: flex;
+  justify-content: center;
 }
 
-.qual {
-  margin: 20px;
+.con {
+  display: flex;
+  justify-content: space-around;
 }
-
-.exp {
-  margin: 20px;
-}*/
