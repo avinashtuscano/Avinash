@@ -45,14 +45,6 @@ hr {
   padding: 0px;
   margin: 0px;
 }
-.con {
-  display: flex;
-  justify-content: space-between;
-}
-
-.address {
-  width: 250px;
-}
 
 .lang {
   margin: 20px;
