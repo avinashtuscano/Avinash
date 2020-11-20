@@ -117,6 +117,12 @@ a {
   align-items: center;
 }
 
+.tmhcc-summary {
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+  align-items: center;
+}
+
 .next-page {
   animation-name: pagination;
   animation-duration: 1s;
