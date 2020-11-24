@@ -104,10 +104,10 @@ li a {
   font-weight: bold;
 }
 
-/*.exp:hover .dropdown-content {
+.form-container {
   display: grid;
-  background-color: #a9aeb0;
-} */
+  justify-content: center;
+}
 
 .contact {
   transition: all 50ms linear;
@@ -140,6 +140,24 @@ li a {
   animation-duration: 1s;
   position: relative;
   animation-iteration-count: infinite;
+}
+
+form input {
+  margin: 20px;
+}
+
+#message {
+  margin: 20px;
+  height: 5rem;
+}
+
+.btn {
+  margin: 20px;
+}
+
+.btn:hover {
+  background-color: darkgrey;
+  font-size: 105%;
 }
 
 @keyframes pagination {
